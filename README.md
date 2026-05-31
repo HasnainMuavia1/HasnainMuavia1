@@ -1,19 +1,179 @@
-# 💫 About Me:
-I am Hasnain Muavia, an associate data scientist with expertise in machine learning (ML), deep learning (DL), and backend development using Django. I have created numerous projects in deep learning and data science, specializing in Exploratory Data Analysis (EDA) and fine-tuning. Notable projects include a Dynamic portfolio, product comparison tool using Selenium and Django etc. I am passionate about learning and currently focus on Natural Language Processing (NLP), advanced deep learning, and Generative AI.
+<h1 align="center">Hi, I'm Hasnain Muavia</h1>
+<h3 align="center">Development Team Lead | AI & Backend Engineer | Agentic AI & RAG Systems</h3>
 
+<p align="center">
+  <a href="mailto:hasnain.muavia2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hasnain.muavia2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/hasnain.muavia2004/">
+    <img src="https://img.shields.io/badge/Instagram-hasnain.muavia2004-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/HasnainMua23875">
+    <img src="https://img.shields.io/badge/X-HasnainMua23875-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/HasnainMuavia1">
+    <img src="https://img.shields.io/badge/GitHub-HasnainMuavia1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hasnainmuavia2004) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hasnain.muavia2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](
-https://www.linkedin.com/in/hasnain-muavia1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnain-muavia-umt2004) 
-
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=flat-square&logo=aqua&logoColor=#0018A8)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HasnainMuavia1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HasnainMuavia1&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainMuavia1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HasnainMuavia1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-success?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG%20%7C%20Backend-blueviolet?style=flat" alt="Focus" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HasnainMuavia1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a **Development Team Lead and AI/Backend Engineer** focused on building production-grade AI systems, scalable Python services, and real-world automation platforms.
+
+- Leading 20+ engineers at **BuiltPulse** and **Nexxaura** across backend, AI orchestration, and delivery workflows.
+- Building **agentic AI systems**, **multi-agent pipelines**, and **RAG applications** with LangGraph, LangChain, OpenAI, Anthropic, and vector databases.
+- Designing scalable backends with **Django REST Framework**, **FastAPI**, Celery, RabbitMQ, Redis, PostgreSQL, Docker, AWS EC2/S3, and CI/CD.
+- Experienced in medical billing automation, ERP platforms, bioinformatics, NLP, computer vision, and document-grounded AI assistants.
+- Published research in **MDPI** on transformer-based NLP and deep learning for computer vision.
+
+---
+
+## Current Work
+
+| Role | Organization | Focus |
+| --- | --- | --- |
+| Development Team Lead | BuiltPulse | Enterprise ERP, agentic workflows, multi-tenant backend, real-time collaboration |
+| Development Team Lead | Nexxaura | AI medical billing CRM, RCM automation, LangGraph orchestration |
+| AI/Backend Engineer | Independent Projects | RAG assistants, NLP systems, ML platforms, automation tools |
+
+---
+
+## Featured Projects
+
+| Project | Tech Stack | What I Built |
+| --- | --- | --- |
+| **CIA - Enterprise ERP Platform** | Django, DRF, LangGraph, WebRTC, Celery, Redis, Docker, AWS, Nginx | Multi-tenant ERP with RBAC, HR, Finance, Project Management, Compliance, AI task suggestions, real-time collaboration, CI/CD, Sentry, and Grafana. |
+| **MedSynthea - AI Medical Billing CRM** | LangGraph, LangChain, Django, FastAPI, Celery, Redis, Docker, AWS | AI-driven CRM for eligibility verification, insurance verification, medical coding, denial prediction, claim scrubbing, and EOB processing. |
+| **PON-P3 Pathogenicity Prediction System** | Django, Celery, RabbitMQ, Pandas, ReportLab | Bioinformatics web app for Lund University with async batch processing, genomic data handling, automated PDF reports, and email delivery. |
+| **AI-Generated Cryptocurrency Tweet Detection** | PyTorch, Transformers, Ollama, NLP | Transformer classifier achieving 99% accuracy for detecting AI-generated financial content. Published in MDPI 2025. |
+| **Multi-Class Visual Cyberbullying Detection** | TensorFlow, Keras, Computer Vision | Deep learning pipeline reaching 98% accuracy for visual cyberbullying detection. Published in MDPI 2024. |
+| **AccountingBot - RAG Assistant** | LangChain, Selenium, Pinecone | Domain-specific RAG assistant with web scraping, vector search, conversational memory, authentication, and session management. |
+| **EduAI - AI Educational Platform** | Groq, LangChain, Llama Vision, RAG, OCR | Educational AI platform with document Q&A, video interaction, quiz generation, Word export, and OCR. |
+
+---
+
+## Tech Stack
+
+### AI, LLMs & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+### Backend & APIs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+### Data, Databases & Analytics
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+### Cloud, DevOps & Tools
+
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Frontend & Collaboration
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasnainMuavia1&theme=tokyonight" alt="GitHub profile stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasnainMuavia1&theme=tokyonight&utcOffset=5" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasnainMuavia1&theme=tokyonight" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasnainMuavia1&theme=tokyonight" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasnainMuavia1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+## Publications
+
+- **Human or AI? Transformer-Based Detection of AI-Generated Financial Content** - MDPI, 2025
+- **Multi-Class Visual Cyberbullying Detection using Deep Neural Networks (CVID Dataset)** - MDPI, 2024
+
+---
+
+## Certifications
+
+- **Associate Data Scientist** - DataCamp
+- **Data Analyst** - DataCamp
+- **Machine Learning Specialization** - DeepLearning.AI / Stanford University
+- **Python for Everybody** - University of Michigan
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:hasnain.muavia2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/hasnain.muavia2004/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/Hasnain.muavia2004">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://x.com/HasnainMua23875">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building AI systems that move from prototype to production.</strong>
+</p>
