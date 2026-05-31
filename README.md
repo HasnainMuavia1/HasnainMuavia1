@@ -2,25 +2,29 @@
 <h3 align="center">Development Team Lead | AI & Backend Engineer | Agentic AI & RAG Systems</h3>
 
 <p align="center">
-  <a href="mailto:hasnain.muavia2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hasnain.muavia2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/hasnain.muavia2004/">
-    <img src="https://img.shields.io/badge/Instagram-hasnain.muavia2004-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/HasnainMua23875">
-    <img src="https://img.shields.io/badge/X-HasnainMua23875-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://hasnainmuavia.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-hasnainmuavia.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/HasnainMuavia1">
     <img src="https://img.shields.io/badge/GitHub-HasnainMuavia1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/hasnain-muavia1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hasnain%20Muavia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/hasnain.muavia2004/">
+    <img src="https://img.shields.io/badge/Instagram-hasnain.muavia2004-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/Hasnain.muavia2004">
+    <img src="https://img.shields.io/badge/Facebook-Hasnain.muavia2004-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://x.com/HasnainMua23875">
+    <img src="https://img.shields.io/badge/X-HasnainMua23875-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:hasnain.muavia2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hasnain.muavia2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasnainMuavia1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-success?style=flat" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG%20%7C%20Backend-blueviolet?style=flat" alt="Focus" />
-</p>
 
 ---
 
@@ -28,7 +32,7 @@
 
 I am a **Development Team Lead and AI/Backend Engineer** focused on building production-grade AI systems, scalable Python services, and real-world automation platforms.
 
-- Leading 20+ engineers at **BuiltPulse** and **Nexxaura** across backend, AI orchestration, and delivery workflows.
+- Leading 20+ Engineers at **BuiltPulse** and **Nexxaura** across backend, AI orchestration, and delivery workflows.
 - Building **agentic AI systems**, **multi-agent pipelines**, and **RAG applications** with LangGraph, LangChain, OpenAI, Anthropic, and vector databases.
 - Designing scalable backends with **Django REST Framework**, **FastAPI**, Celery, RabbitMQ, Redis, PostgreSQL, Docker, AWS EC2/S3, and CI/CD.
 - Experienced in medical billing automation, ERP platforms, bioinformatics, NLP, computer vision, and document-grounded AI assistants.
@@ -160,6 +164,15 @@ I am a **Development Team Lead and AI/Backend Engineer** focused on building pro
 ## Connect With Me
 
 <p align="center">
+  <a href="https://hasnainmuavia.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/HasnainMuavia1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasnain-muavia1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:hasnain.muavia2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
