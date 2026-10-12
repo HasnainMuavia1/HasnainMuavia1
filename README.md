@@ -45,8 +45,8 @@ I am a **Development Team Lead and AI/Backend Engineer** focused on building pro
 | Role | Organization | Focus |
 | --- | --- | --- |
 | Development Team Lead | BuiltPulse | Enterprise ERP, agentic workflows, multi-tenant backend, real-time collaboration |
-| Development Team Lead | Nexxaura | AI medical billing CRM, RCM automation, LangGraph orchestration |
-| AI/Backend Engineer | Independent Projects | RAG assistants, NLP systems, ML platforms, automation tools |
+| Development Team Lead | Medsynthea | AI medical billing CRM, RCM automation, LangGraph orchestration |
+| AI/Backend Engineer | University of Chenab | RAG assistants, NLP systems, ML platforms, automation tools |
 
 ---
 
